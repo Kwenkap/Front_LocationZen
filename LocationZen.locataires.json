@@ -1,0 +1,3321 @@
+[{
+  "_id": {
+    "$oid": "64b65ae0f01d4e511badf28e"
+  },
+  "noms": "DEMANOU KENFACK",
+  "prenoms": "RUDEL BEBETO",
+  "statut": true,
+  "cni": 807156,
+  "logement": "chambre",
+  "numeroLogement": "T01",
+  "telephone": "693613161",
+  "dateDebut": {
+    "$date": "2023-07-12T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T09:26:56.915Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b65ae0f01d4e511badf28c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.275Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 5808,
+      "factureTotal": 728200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf831"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.169Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 5808,
+      "factureTotal": 728200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf89e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.002Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 5808,
+      "factureTotal": 728200,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf926"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.682Z"
+      },
+      "ancienIndex": 5808,
+      "nouveauIndex": 5822,
+      "factureTotal": 3950,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc47"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.852Z"
+      },
+      "ancienIndex": 5822,
+      "nouveauIndex": 5812,
+      "factureTotal": 950,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc585"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:48.995Z"
+      },
+      "ancienIndex": 5812,
+      "nouveauIndex": 124,
+      "factureTotal": -708800,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7a4"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.050Z"
+      },
+      "ancienIndex": 124,
+      "nouveauIndex": 5818,
+      "factureTotal": 713950,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca14"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:12.971Z"
+      },
+      "ancienIndex": 5818,
+      "nouveauIndex": 5824,
+      "factureTotal": 2950,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af5b"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b65bbcf01d4e511badf297"
+  },
+  "noms": "FOUDA GASTON",
+  "prenoms": "GASTON",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T02",
+  "telephone": "691430645",
+  "dateDebut": {
+    "$date": "2023-06-13T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-12-13T00:00:00.000Z"
+  },
+  "montantLoyer": 35000,
+  "caution": 70000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T09:30:36.604Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b65bbcf01d4e511badf295"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.318Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2910,
+      "factureTotal": 365950,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf835"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.184Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2910,
+      "factureTotal": 365950,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8a3"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.018Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2910,
+      "factureTotal": 365950,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf92c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.779Z"
+      },
+      "ancienIndex": 2910,
+      "nouveauIndex": 54,
+      "factureTotal": -354800,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc4e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.879Z"
+      },
+      "ancienIndex": 54,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc58d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.014Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7ad"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.076Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 378450,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca1e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.129Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 82,
+      "factureTotal": 12450,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af66"
+      }
+    }
+  ],
+  "montantTotal": 105000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b65d6df01d4e511badf29c"
+  },
+  "noms": "ABDOURAPIAN",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T03",
+  "telephone": "693277622",
+  "dateDebut": {
+    "$date": "2023-06-08T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-12-08T00:00:00.000Z"
+  },
+  "montantLoyer": 35000,
+  "caution": 70000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T09:37:49.696Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b65d6df01d4e511badf29a"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.334Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 803,
+      "factureTotal": 102575,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf839"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.200Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 803,
+      "factureTotal": 102575,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8a8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.033Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 803,
+      "factureTotal": 102575,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf932"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.799Z"
+      },
+      "ancienIndex": 803,
+      "nouveauIndex": 810,
+      "factureTotal": 3075,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc55"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.899Z"
+      },
+      "ancienIndex": 810,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc595"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.037Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7b6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.091Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 807,
+      "factureTotal": 103075,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca28"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.151Z"
+      },
+      "ancienIndex": 807,
+      "nouveauIndex": 810,
+      "factureTotal": 2575,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af71"
+      }
+    }
+  ],
+  "montantTotal": 105000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b65de1f01d4e511badf2a1"
+  },
+  "noms": "SOULEMAN OMAR",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T04",
+  "telephone": "697735703",
+  "dateDebut": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T09:39:45.442Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b65de1f01d4e511badf29f"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.351Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3687,
+      "factureTotal": 463075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf83d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.214Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3687,
+      "factureTotal": 463075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8ad"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.048Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3687,
+      "factureTotal": 463075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf938"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.817Z"
+      },
+      "ancienIndex": 3687,
+      "nouveauIndex": 3864,
+      "factureTotal": 24325,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc5c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.914Z"
+      },
+      "ancienIndex": 3864,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc59d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.057Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7bf"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.105Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3796,
+      "factureTotal": 476700,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca32"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.180Z"
+      },
+      "ancienIndex": 3796,
+      "nouveauIndex": 3888,
+      "factureTotal": 13700,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af7c"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b661fff01d4e511badf2c4"
+  },
+  "noms": "EBA DANIEL",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T05",
+  "telephone": "699114443",
+  "dateDebut": {
+    "$date": "2022-09-10T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-09-10T00:00:00.000Z"
+  },
+  "montantLoyer": 35000,
+  "caution": 70000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T09:57:19.024Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b661fff01d4e511badf2c2"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.365Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 7103,
+      "factureTotal": 890075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf841"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.230Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 7103,
+      "factureTotal": 890075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8b2"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.064Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 7103,
+      "factureTotal": 890075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf93e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.835Z"
+      },
+      "ancienIndex": 7103,
+      "nouveauIndex": 31,
+      "factureTotal": -881800,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc63"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.930Z"
+      },
+      "ancienIndex": 31,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc5a5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.074Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7c8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.120Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 897450,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca3c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.208Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 47,
+      "factureTotal": 8075,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af87"
+      }
+    }
+  ],
+  "montantTotal": 105000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b6633ff01d4e511badf2d5"
+  },
+  "noms": "KWENKAP HERMANN",
+  "prenoms": "GILLES",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T06",
+  "telephone": "+237690828692",
+  "dateDebut": {
+    "$date": "2023-05-02T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-03-02T00:00:00.000Z"
+  },
+  "montantLoyer": 35000,
+  "caution": 70000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:02:39.983Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2869,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b6633ff01d4e511badf2d3"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.381Z"
+      },
+      "ancienIndex": 2869,
+      "nouveauIndex": 2869,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf845"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.247Z"
+      },
+      "ancienIndex": 2869,
+      "nouveauIndex": 2869,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8b7"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.085Z"
+      },
+      "ancienIndex": 2869,
+      "nouveauIndex": 2869,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf944"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.852Z"
+      },
+      "ancienIndex": 2869,
+      "nouveauIndex": 3121,
+      "factureTotal": 33700,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc6a"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.948Z"
+      },
+      "ancienIndex": 3121,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc5ad"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.091Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7d1"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.135Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3021,
+      "factureTotal": 379825,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca46"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.229Z"
+      },
+      "ancienIndex": 3021,
+      "nouveauIndex": 3152,
+      "factureTotal": 18575,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af92"
+      }
+    }
+  ],
+  "montantTotal": 105000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66394f01d4e511badf2da"
+  },
+  "noms": "DIBANGA MARIE",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T07",
+  "telephone": "695080213",
+  "dateDebut": {
+    "$date": "2023-08-11T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-02-11T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:04:04.023Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66394f01d4e511badf2d8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.397Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1367,
+      "factureTotal": 173075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf849"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.264Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1367,
+      "factureTotal": 173075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8bc"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.104Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1367,
+      "factureTotal": 173075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf94a"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.868Z"
+      },
+      "ancienIndex": 1367,
+      "nouveauIndex": 1506,
+      "factureTotal": 19575,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc71"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.965Z"
+      },
+      "ancienIndex": 1506,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc5b5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.104Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7da"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.153Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1456,
+      "factureTotal": 184200,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca50"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.248Z"
+      },
+      "ancienIndex": 1456,
+      "nouveauIndex": 1528,
+      "factureTotal": 11200,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55af9d"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66463f01d4e511badf2df"
+  },
+  "noms": "NGUIMFACK NELLY",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T08",
+  "telephone": "654838740",
+  "dateDebut": {
+    "$date": "2023-02-27T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-08-27T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:07:31.056Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66463f01d4e511badf2dd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.414Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 8143,
+      "factureTotal": 1020075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf84d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.280Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 8143,
+      "factureTotal": 1020075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8c1"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.124Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 8143,
+      "factureTotal": 1020075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf950"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.891Z"
+      },
+      "ancienIndex": 8143,
+      "nouveauIndex": 84,
+      "factureTotal": -1005175,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc78"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.980Z"
+      },
+      "ancienIndex": 84,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e64ca190b626dfc5bd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.121Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7e3"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.168Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 1037450,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca5a"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.268Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 118,
+      "factureTotal": 16950,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afa8"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b664c6f01d4e511badf2f6"
+  },
+  "noms": "TSAKEU SANDRA",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T09",
+  "telephone": "655712727",
+  "dateDebut": {
+    "$date": "2023-07-09T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "montantLoyer": 35000,
+  "caution": 70000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:09:10.969Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b664c6f01d4e511badf2f4"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.431Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 997,
+      "factureTotal": 126825,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf851"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.297Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 997,
+      "factureTotal": 126825,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8c6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.140Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 997,
+      "factureTotal": 126825,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf956"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.908Z"
+      },
+      "ancienIndex": 997,
+      "nouveauIndex": 35,
+      "factureTotal": -118050,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc7f"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:34.995Z"
+      },
+      "ancienIndex": 35,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5c5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.136Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7ec"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.183Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 131450,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca64"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.287Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 42,
+      "factureTotal": 7450,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afb3"
+      }
+    }
+  ],
+  "montantTotal": 105000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66513f01d4e511badf2fb"
+  },
+  "noms": "DIM SEM AUDREY",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T10",
+  "telephone": "123456789",
+  "dateDebut": {
+    "$date": "2023-04-23T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-10-23T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:10:27.976Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66513f01d4e511badf2f9"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.448Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1942,
+      "factureTotal": 244950,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf855"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.314Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1942,
+      "factureTotal": 244950,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8cb"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.156Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1942,
+      "factureTotal": 244950,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf95c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.925Z"
+      },
+      "ancienIndex": 1942,
+      "nouveauIndex": 1947,
+      "factureTotal": 2825,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc86"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.011Z"
+      },
+      "ancienIndex": 1947,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5cd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.151Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7f5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.199Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1947,
+      "factureTotal": 245575,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca6e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.307Z"
+      },
+      "ancienIndex": 1947,
+      "nouveauIndex": 1947,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afbe"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66548f01d4e511badf300"
+  },
+  "noms": "ONDOUA CHARLES",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T11",
+  "telephone": "652970933",
+  "dateDebut": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:11:20.437Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66548f01d4e511badf2fe"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.464Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3887,
+      "factureTotal": 488075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf859"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.330Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3887,
+      "factureTotal": 488075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8d0"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.170Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 3887,
+      "factureTotal": 488075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf962"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.942Z"
+      },
+      "ancienIndex": 3887,
+      "nouveauIndex": 60,
+      "factureTotal": -476175,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc8d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.025Z"
+      },
+      "ancienIndex": 60,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5d5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.166Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc7fe"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.215Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 490075,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca78"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.327Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 80,
+      "factureTotal": 12200,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afc9"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b6662ff01d4e511badf365"
+  },
+  "noms": "NDJEKICTEMAN",
+  "prenoms": "NNULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T12",
+  "telephone": "678039399",
+  "dateDebut": {
+    "$date": "2023-06-29T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-12-29T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:15:11.483Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b6662ff01d4e511badf363"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.480Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 287,
+      "factureTotal": 38075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf85d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.348Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 287,
+      "factureTotal": 38075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8d5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.184Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 287,
+      "factureTotal": 38075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf968"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.965Z"
+      },
+      "ancienIndex": 287,
+      "nouveauIndex": 386,
+      "factureTotal": 14575,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc94"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.041Z"
+      },
+      "ancienIndex": 386,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5dd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.181Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc807"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.230Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 342,
+      "factureTotal": 44950,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca82"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.348Z"
+      },
+      "ancienIndex": 342,
+      "nouveauIndex": 399,
+      "factureTotal": 9325,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afd4"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b667c7f01d4e511badf36a"
+  },
+  "noms": "TSAFACK",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T13",
+  "telephone": "694003266",
+  "dateDebut": {
+    "$date": "2023-10-27T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-02-27T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:21:59.379Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b667c7f01d4e511badf368"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.497Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1928,
+      "factureTotal": 243200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf861"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.364Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1928,
+      "factureTotal": 243200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8da"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.201Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1928,
+      "factureTotal": 243200,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf96e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.984Z"
+      },
+      "ancienIndex": 1928,
+      "nouveauIndex": 24,
+      "factureTotal": -235800,
+      "_id": {
+        "$oid": "64d3b7624ca190b626dfbc9b"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.055Z"
+      },
+      "ancienIndex": 24,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5e5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.195Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc810"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.246Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 243325,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca8c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.375Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 25,
+      "factureTotal": 5325,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afdf"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66852f01d4e511badf36f"
+  },
+  "noms": "EDDYMO MARIETTE",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T14",
+  "telephone": "655267037",
+  "dateDebut": {
+    "$date": "2023-04-06T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-10-06T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:24:18.519Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66852f01d4e511badf36d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.515Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2100,
+      "factureTotal": 264700,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf865"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.382Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2100,
+      "factureTotal": 264700,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8df"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.215Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2100,
+      "factureTotal": 264700,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf974"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:22.999Z"
+      },
+      "ancienIndex": 2100,
+      "nouveauIndex": 2102,
+      "factureTotal": 2450,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbca2"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.069Z"
+      },
+      "ancienIndex": 2102,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5ed"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.209Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc819"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.261Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1201,
+      "factureTotal": 152325,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfca96"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.393Z"
+      },
+      "ancienIndex": 1201,
+      "nouveauIndex": 1211,
+      "factureTotal": 3450,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55afea"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b668bcf01d4e511badf374"
+  },
+  "noms": "MAWAMBA MERVEILLE",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T15",
+  "telephone": "695290143",
+  "dateDebut": {
+    "$date": "2023-04-29T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-10-29T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:26:04.985Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b668bcf01d4e511badf372"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.530Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1101,
+      "factureTotal": 139825,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf869"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.398Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1101,
+      "factureTotal": 139825,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8e4"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.231Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1101,
+      "factureTotal": 139825,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf97a"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.015Z"
+      },
+      "ancienIndex": 1101,
+      "nouveauIndex": 1252,
+      "factureTotal": 21075,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbca9"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.085Z"
+      },
+      "ancienIndex": 1252,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5f5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.224Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc822"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.287Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1200,
+      "factureTotal": 152200,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcaa0"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.411Z"
+      },
+      "ancienIndex": 1200,
+      "nouveauIndex": 1273,
+      "factureTotal": 11325,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55aff5"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66a94f01d4e511badf379"
+  },
+  "noms": "DOMPANG",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T16",
+  "telephone": "697721820",
+  "dateDebut": {
+    "$date": "2023-03-23T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-09-23T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:33:56.349Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66a94f01d4e511badf377"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.547Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1910,
+      "factureTotal": 240950,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf86d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.414Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1910,
+      "factureTotal": 240950,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8e9"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.244Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1910,
+      "factureTotal": 240950,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf980"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.031Z"
+      },
+      "ancienIndex": 1910,
+      "nouveauIndex": 2006,
+      "factureTotal": 14200,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcb0"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.099Z"
+      },
+      "ancienIndex": 2006,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc5fd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.239Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc82b"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.303Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1987,
+      "factureTotal": 250575,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcaaa"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.429Z"
+      },
+      "ancienIndex": 1987,
+      "nouveauIndex": 2015,
+      "factureTotal": 5700,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b000"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66b82f01d4e511badf3a0"
+  },
+  "noms": "DJOMO ALINE",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T17",
+  "telephone": "671310165",
+  "dateDebut": {
+    "$date": "2023-04-08T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-10-08T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:37:54.952Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66b82f01d4e511badf39e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.564Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 261,
+      "factureTotal": 34825,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf871"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.431Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 261,
+      "factureTotal": 34825,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8ee"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.258Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 261,
+      "factureTotal": 34825,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf986"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.046Z"
+      },
+      "ancienIndex": 261,
+      "nouveauIndex": 291,
+      "factureTotal": 5950,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcb7"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.113Z"
+      },
+      "ancienIndex": 291,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc605"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.255Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc834"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.317Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 281,
+      "factureTotal": 37325,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcab4"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.450Z"
+      },
+      "ancienIndex": 281,
+      "nouveauIndex": 293,
+      "factureTotal": 3700,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b00b"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66c1ff01d4e511badf3a5"
+  },
+  "noms": "MBOGBE SOPHIE",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T18",
+  "telephone": "699696427",
+  "dateDebut": {
+    "$date": "2023-05-14T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-03-14T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:40:31.994Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66c1ff01d4e511badf3a3"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.581Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 908,
+      "factureTotal": 115700,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf875"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.447Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 908,
+      "factureTotal": 115700,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8f3"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.272Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 908,
+      "factureTotal": 115700,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf98c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.062Z"
+      },
+      "ancienIndex": 908,
+      "nouveauIndex": 963,
+      "factureTotal": 9075,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcbe"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.126Z"
+      },
+      "ancienIndex": 963,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc60d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.268Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc83d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.331Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 943,
+      "factureTotal": 120075,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcabe"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.468Z"
+      },
+      "ancienIndex": 943,
+      "nouveauIndex": 974,
+      "factureTotal": 6075,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b016"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66dc2f01d4e511badf4a1"
+  },
+  "noms": "NTOUKAM HAMEL",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T19",
+  "telephone": "697291463",
+  "dateDebut": {
+    "$date": "2023-07-23T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-01-23T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:47:30.983Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66dc2f01d4e511badf49f"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.597Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2706,
+      "factureTotal": 340450,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf879"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.465Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2706,
+      "factureTotal": 340450,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8f8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.286Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2706,
+      "factureTotal": 340450,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf992"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.076Z"
+      },
+      "ancienIndex": 2706,
+      "nouveauIndex": 2914,
+      "factureTotal": 28200,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcc5"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.141Z"
+      },
+      "ancienIndex": 2914,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc615"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.283Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc846"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.346Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 2858,
+      "factureTotal": 359450,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcac8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.489Z"
+      },
+      "ancienIndex": 2858,
+      "nouveauIndex": 2950,
+      "factureTotal": 13700,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b021"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66e0ff01d4e511badf4a6"
+  },
+  "noms": "DJOUMENI THERESE",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T20",
+  "telephone": "123456789",
+  "dateDebut": {
+    "$date": "2023-02-13T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-08-13T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:48:47.753Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66e0ff01d4e511badf4a4"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.614Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1583,
+      "factureTotal": 200075,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf87d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.480Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1583,
+      "factureTotal": 200075,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf8fd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.301Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1583,
+      "factureTotal": 200075,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf998"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.092Z"
+      },
+      "ancienIndex": 1583,
+      "nouveauIndex": 1595,
+      "factureTotal": 3700,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbccc"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.155Z"
+      },
+      "ancienIndex": 1595,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc61d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.299Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc84f"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.361Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1591,
+      "factureTotal": 201075,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcad2"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.508Z"
+      },
+      "ancienIndex": 1591,
+      "nouveauIndex": 1597,
+      "factureTotal": 2950,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b02c"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b66e74f01d4e511badf4ab"
+  },
+  "noms": "FOMBIN VIVIAN",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "chambre",
+  "numeroLogement": "T21",
+  "telephone": "698262336",
+  "dateDebut": {
+    "$date": "2023-05-26T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-11-26T00:00:00.000Z"
+  },
+  "montantLoyer": 40000,
+  "caution": 80000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T10:50:28.425Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b66e74f01d4e511badf4a9"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.631Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 640,
+      "factureTotal": 82200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf881"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.497Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 640,
+      "factureTotal": 82200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf902"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.315Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 640,
+      "factureTotal": 82200,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf99e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.106Z"
+      },
+      "ancienIndex": 640,
+      "nouveauIndex": 737,
+      "factureTotal": 14325,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcd3"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.169Z"
+      },
+      "ancienIndex": 737,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc625"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.315Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc858"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.378Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 694,
+      "factureTotal": 88950,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcadc"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.525Z"
+      },
+      "ancienIndex": 694,
+      "nouveauIndex": 755,
+      "factureTotal": 9825,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b037"
+      }
+    }
+  ],
+  "montantTotal": 120000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b67135f01d4e511badf618"
+  },
+  "noms": "NGO NYETEM",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123445,
+  "logement": "studio",
+  "numeroLogement": "S01",
+  "telephone": "691105363",
+  "dateDebut": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-12-20T00:00:00.000Z"
+  },
+  "montantLoyer": 65000,
+  "caution": 130000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T11:02:13.273Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b67135f01d4e511badf616"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.647Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf885"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.511Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf907"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.330Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1,
+      "factureTotal": 2325,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf9a4"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.123Z"
+      },
+      "ancienIndex": 1,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcda"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.184Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc62d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.332Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc861"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.394Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcae6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.542Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 182.4,
+      "factureTotal": 25000,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b042"
+      }
+    }
+  ],
+  "montantTotal": 195000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b671d1f01d4e511badf622"
+  },
+  "noms": "EMO NANA",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "studio",
+  "numeroLogement": "S02",
+  "telephone": "698172494",
+  "dateDebut": {
+    "$date": "2023-03-30T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  },
+  "montantLoyer": 75000,
+  "caution": 150000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T11:04:49.363Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b671d1f01d4e511badf620"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.664Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf889"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.525Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf90c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.347Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1,
+      "factureTotal": 2325,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf9aa"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.140Z"
+      },
+      "ancienIndex": 1,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbce1"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.198Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc635"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.348Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc86a"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.412Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcaf0"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.558Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 206.4,
+      "factureTotal": 28000,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b04d"
+      }
+    }
+  ],
+  "montantTotal": 225000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b671fef01d4e511badf627"
+  },
+  "noms": "THIAM FRANCK",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "studio",
+  "numeroLogement": "S03",
+  "telephone": "695308411",
+  "dateDebut": {
+    "$date": "2023-08-11T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-02-11T00:00:00.000Z"
+  },
+  "montantLoyer": 75000,
+  "caution": 150000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T11:05:34.846Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b671fef01d4e511badf625"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.682Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf88d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.539Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf911"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.360Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1,
+      "factureTotal": 2325,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf9b0"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.156Z"
+      },
+      "ancienIndex": 1,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbce8"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.213Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc63d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.367Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc873"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.427Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcafa"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.576Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 6.4,
+      "factureTotal": 3000,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b058"
+      }
+    }
+  ],
+  "montantTotal": 225000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b6729df01d4e511badf660"
+  },
+  "noms": "S04",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "studio",
+  "numeroLogement": "S04",
+  "telephone": "690033469",
+  "dateDebut": {
+    "$date": "2022-02-23T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2022-08-23T00:00:00.000Z"
+  },
+  "montantLoyer": 75000,
+  "caution": 150000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T11:08:13.589Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b6729df01d4e511badf65e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.697Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf891"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.554Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf916"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.374Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1,
+      "factureTotal": 2325,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf9b6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.173Z"
+      },
+      "ancienIndex": 1,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcef"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.227Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc645"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.384Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc87c"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.443Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcb04"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.597Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b063"
+      }
+    }
+  ],
+  "montantTotal": 225000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b67307f01d4e511badf69b"
+  },
+  "noms": "ELONG OBAM",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "studio",
+  "numeroLogement": "S05",
+  "telephone": "697105436",
+  "dateDebut": {
+    "$date": "2023-05-21T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2024-01-21T00:00:00.000Z"
+  },
+  "montantLoyer": 75000,
+  "caution": 150000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T11:09:59.440Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b67307f01d4e511badf699"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.713Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf895"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.568Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf91b"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.389Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1,
+      "factureTotal": 2325,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf9bc"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.189Z"
+      },
+      "ancienIndex": 1,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcf6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.242Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc64d"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.402Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc885"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.460Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcb0e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.625Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 6.4,
+      "factureTotal": 3000,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b06e"
+      }
+    }
+  ],
+  "montantTotal": 225000,
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "64b6733ef01d4e511badf6d8"
+  },
+  "noms": "NOGHIESSIEH",
+  "prenoms": "NULL",
+  "statut": true,
+  "cni": 123456789,
+  "logement": "studio",
+  "numeroLogement": "S06",
+  "telephone": "694731843",
+  "dateDebut": {
+    "$date": "2023-02-28T00:00:00.000Z"
+  },
+  "dateFin": {
+    "$date": "2023-08-29T00:00:00.000Z"
+  },
+  "montantLoyer": 75000,
+  "caution": 150000,
+  "factures": [
+    {
+      "date": {
+        "$date": "2023-07-18T11:10:54.227Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b6733ef01d4e511badf6d6"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:22:54.731Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 2200,
+      "_id": {
+        "$oid": "64b6760ef01d4e511badf899"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:00.583Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64b67614f01d4e511badf920"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-07-18T11:23:10.404Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 1,
+      "factureTotal": 2325,
+      "_id": {
+        "$oid": "64b6761ef01d4e511badf9c2"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:57:23.207Z"
+      },
+      "ancienIndex": 1,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7634ca190b626dfbcfd"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:35.257Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7e74ca190b626dfc655"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T15:59:49.418Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b7f54ca190b626dfc88e"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-09T16:01:34.477Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 0,
+      "factureTotal": 0,
+      "_id": {
+        "$oid": "64d3b85e4ca190b626dfcb18"
+      }
+    },
+    {
+      "date": {
+        "$date": "2023-08-17T14:24:13.644Z"
+      },
+      "ancienIndex": 0,
+      "nouveauIndex": 6.4,
+      "factureTotal": 3000,
+      "_id": {
+        "$oid": "64de2d8d9422d96acf55b079"
+      }
+    }
+  ],
+  "montantTotal": 225000,
+  "__v": 8
+}]
